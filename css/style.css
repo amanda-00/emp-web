@@ -600,6 +600,13 @@ button {
      background-color: #ffffff;
 }
 
+/* .gallery .rdm_img {
+     overflow: hidden;
+     margin-bottom: 30px;
+     background-color: #ffffff;
+     height: 400px;
+     width: 600px;
+} */
 .gallery .gallery_img figure {
      margin: 0;
 }
